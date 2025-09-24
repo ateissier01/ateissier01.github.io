@@ -2,7 +2,7 @@
 Bienvenue sur mon Portfolio. 
 
 ## A propos de moi
-Titulaire d'une licence de Mathématiques-Informatique, je fais actuellement un Master of Sciences en Intelligence Artificielle et Data dans l'objectif de travailler ensuite en tant que Data Scientist ou Data Analyst. Je maitrise parfaitement le langage python que je programme depuis plusieurs années. J'ai des compétences solides en apprentissage automatique, notamment les différentes bibliothèques python (Scikit-learn, Pytorch, Tensorflow) mais j'ai également déjà développé des réseaux de neuronnes multicouches intégralement. Mon parcours académique m'a par ailleurs donné de solides connaissances en bases de données (dont SQL), ordonnancement, théorie des graphes, statistiques. 
+Titulaire d'une licence de Mathématiques-Informatique, je fais actuellement un Master of Science en Intelligence Artificielle et Data dans l'objectif de travailler ensuite en tant que Data Scientist ou Data Analyst. Je maîtrise parfaitement le langage python avec lequel je programme depuis plusieurs années. J'ai des compétences solides en apprentissage automatique, notamment les différentes bibliothèques python (Scikit-learn, Pytorch, Tensorflow) mais j'ai également déjà développé des réseaux de neurones multicouches intégralement à partir de zéro. Mon parcours académique m'a par ailleurs donné de solides connaissances en bases de données (dont SQL), ordonnancement, algorithmique, théorie des graphes, statistiques. 
 
 ## Compétences
 - Python, R, C#, Java
